@@ -20,6 +20,7 @@ public class Main {
         String result = LibClass.acrostic(args);
         System.out.println("Result= " + result);
         System.out.println("Result2= " + result);
+        System.out.println("Result3= " + result);
     }
     
 }
